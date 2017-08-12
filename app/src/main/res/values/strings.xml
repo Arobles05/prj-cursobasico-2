@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConversMax</string>
+    <string name="Title_1">Conversor de Divisas</string>
+    <string name="Title_2">(DPO-US-EU)</string>
+    <string name="Title_3">Cantidad a Cambiar</string>
+    <string name="Title_4">Convertir</string>
+    <string name="Title_5">0.0</string>
+    <string name="Title_6">Cargando...</string>
+</resources>
